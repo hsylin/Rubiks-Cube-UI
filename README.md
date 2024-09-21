@@ -5,13 +5,13 @@ Recognizes Rubik's cubes and solves with Kociemba's two-phase algorithm.
 ***
 ## **Introduction**
 
-This code implements the following:
+This project implements the following features:
+-Rubik's Cube Detection: Utilizes OpenCV to detect and recognize the current state of a Rubik's Cube.
+-Solution Steps: Provides a step-by-step solution to solve the cube using Kociemba's two-phase algorithm.
+-Cube State Display: Visualizes the current state of the cube during detection and after each solution step.
 
-- Aimed for stickerless cubes.
 - **Key Feature:** Recognizes cube from only two opposite corners, no specific order needed. Easy and fast.
-- Displays the current state of the cube.
-- Shows the solution steps for the cube.
-
+  
 ## Prerequisite
 
 * Python 3.8.10
@@ -30,4 +30,4 @@ $ python cube.py
 
 ## Demo
 
-  ![demo_pic](https://github.com/user-attachments/assets/39c5cfb9-a00c-4d70-9746-b1117fa10ce1)
+  ![demo_pic]([https://github.com/user-attachments/assets/39c5cfb9-a00c-4d70-9746-b1117fa10ce1](https://github.com/hsylin/Rubiks_Cube_UI/blob/main/ui.png))

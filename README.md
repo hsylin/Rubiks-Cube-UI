@@ -1,4 +1,4 @@
-# Rubiks_Cube_UI
+# Rubiks-Cube-UI
 
 Recognizes Rubik's cubes and solves with Kociemba's two-phase algorithm.
 
